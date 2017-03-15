@@ -502,8 +502,7 @@ p
 #contact
     {
         background: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         color: #ffffff;
     }
 #contact h3
